@@ -1,6 +1,7 @@
-# aithena
+<img src="https://github.com/user-attachments/assets/5487a741-c94c-4777-8f21-af252abfe552" width="90"/>
 
-![image](https://github.com/user-attachments/assets/5487a741-c94c-4777-8f21-af252abfe552)
+# AI-thena
+
 
 AI library for integrating AI in your JS projects
 
